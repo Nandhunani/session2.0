@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified by nandhu
+=======
+hello
+>>>>>>> group2
